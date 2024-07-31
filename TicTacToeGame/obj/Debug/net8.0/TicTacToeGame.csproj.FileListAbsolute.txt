@@ -1,0 +1,14 @@
+D:\Assignments\TicTacToe\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.exe
+D:\Assignments\TicTacToe\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.deps.json
+D:\Assignments\TicTacToe\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.runtimeconfig.json
+D:\Assignments\TicTacToe\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.dll
+D:\Assignments\TicTacToe\TicTacToeGame\bin\Debug\net8.0\TicTacToeGame.pdb
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.AssemblyInfoInputs.cache
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.AssemblyInfo.cs
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.csproj.CoreCompileInputs.cache
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.dll
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\refint\TicTacToeGame.dll
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.pdb
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\TicTacToeGame.genruntimeconfig.cache
+D:\Assignments\TicTacToe\TicTacToeGame\obj\Debug\net8.0\ref\TicTacToeGame.dll
